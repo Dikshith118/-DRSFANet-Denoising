@@ -1,0 +1,7 @@
+This file lists all the Python libraries required for your project, allowing for easy reproduction of your environment.
+
+torch==2.5.1
+torchvision==0.20.1
+numpy
+scikit-image==0.25.2
+Pillow
